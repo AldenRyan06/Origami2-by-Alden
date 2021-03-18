@@ -1,0 +1,23 @@
+
+h1 {
+   
+    color: rgb(212, 31, 31);
+    font-family:'Bradley Hand ITC';
+    font-style: bold;
+    font-size: xx-large;
+}
+h2 {
+   
+    color: rgb(94, 255, 0);
+    font-family:'Bradley Hand ITC';
+    font-style: bold;
+    font-size: xx-large;
+}
+.origami{
+   
+   
+    background-color: lightcoral;
+    display:flex ;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
